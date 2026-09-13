@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+p {
+    max-width: 700px;
+    line-height: 1.6;
+}
+h2 {
+    color: green;
+    border-bottom: 2px solid #000000;
+}
